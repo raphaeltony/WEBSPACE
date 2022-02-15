@@ -23,7 +23,7 @@
 
 .intro h1{
     font-size: 75px;
-    width: 35%;
+    /* width: 35%; */
     font-family:'Roboto', sans-serif;
     /* text-align: end; */
 }
