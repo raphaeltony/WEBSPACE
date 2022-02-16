@@ -1,8 +1,7 @@
-Web development is somethig that we learn by doing. with basics its easy to tackle things in web development.
-like you all even we learned from youtube and other video, workshops etc.
+# Resources for Day 1
+- Google Fonts : https://fonts.google.com/
+- Good website colour combinations to make your site look attractive : Click [here](https://www.canva.com/learn/website-color-schemes/)
+- A more in-depth guide to flexbox : Click [here](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
-here we will provide you the links and details from where we learned web development.
-
-
-https://youtu.be/EqzUcMzfV1w
-https://youtube.com/playlist?list=PLY-ecO2csVHd8R8sg-4vhN2BzZQLxIZO9
+## CSS Box Model 
+![alt text](css-box-model.png)
